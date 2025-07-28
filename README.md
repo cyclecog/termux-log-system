@@ -1,4 +1,4 @@
-Termux Lightweight Distributed Logging System
+# Termux Lightweight Distributed Logging System
  
 A hands-on project for simulating distributed log pipelines in constrained environments
  
