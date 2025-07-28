@@ -60,7 +60,7 @@ python3 log_sender.py --node node2 --server http://127.0.0.1:8000
  
 I wrote  start_all.sh  to avoid manual steps (super useful for demos!):
  
-# Make the script executable (easy to forget—learned this the hard way)  
+# Make the script executable 
 chmod +x start_all.sh  
 
 # Launch all services with one command  
